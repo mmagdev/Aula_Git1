@@ -1,0 +1,7 @@
+
+Minha primeira aula de git na prática. 
+Lista de nomes que eu gosto:
+-Matheus
+-Victor
+-Letícia
+-Vitória
