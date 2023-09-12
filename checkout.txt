@@ -1,0 +1,1 @@
+Linha de código que é parte do exercício de git.
